@@ -1,0 +1,6 @@
+产品按钮: "xpath==//nav[@id='navbar']//a[text()='产品']"
+添加产品: "xpath==//div[@id='pageActions']//a[text()=' 添加产品']"
+产品名称: "css==#name"
+产品代号: "css==#code"
+保存产品: "css==#submit"
+产品列表: "xpath==//ul[@class='nav nav-stacked nav-secondary scrollbar-hover']//a[1]"

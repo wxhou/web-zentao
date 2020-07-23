@@ -1,0 +1,6 @@
+账号: "css==input[name=account]"
+密码: "css==input[name=password]"
+登录: "css==button#submit"
+我的地盘: "xpath==//nav[@id='navbar']//span[text()=' 我的地盘']"
+右上角名称: "css==.user-name"
+退出登录: "xpath==//a[text()='退出']"
